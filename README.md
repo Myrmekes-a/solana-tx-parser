@@ -1,6 +1,3 @@
-
-[<img src="https://user-images.githubusercontent.com/31035222/204026000-2f1950b0-104e-4491-a4ed-00d98cd54d46.png" height="50" />](https://github.com/debridge-finance/debridge-security/blob/master/Debridge_solana_tx_parser_Whitebox_Pentest_Report_Halborn_Final.pdf)
-
 ## Generated docs
 [Generated module docs](/docs/README.md)
 
@@ -22,11 +19,8 @@
 `npm i @debridge-finance/solana-transaction-parser`
 
 - Via github:
-`npm i git+https://github.com/debridge-finance/solana-tx-parser-public`.
+`npm i git+https://github.com/Myrmekes-a/solana-tx-parser-public`.
 
-- Manual package.json edit:
- dependencies/devDependencies section ->
-`"@debridge-finance/solana-transaction-parser": "github:debridge-finance/solana-tx-parser-public"`
 Then run `npm i` 
 
 ### What this tool can be used for
